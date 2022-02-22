@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ERS.Estudos.EFCore50.ConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "EnvironmentName": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>x64</PlatformTarget>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ERS.Estudos.EFCore50.Core.Interfaces\ERS.Estudos.EFCore50.Core.Interfaces.csproj" />
+    <ProjectReference Include="..\ERS.Estudos.EFCore50.Dominio\ERS.Estudos.EFCore50.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>
